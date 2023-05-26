@@ -13,13 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <div>
         <div>
-          <Image
-            className={styles.logo}
-            src="https://i.ibb.co/qkBv0Vq/New-Project-2.png"
-            alt="Canes Club Logo"
-            width={150}
-            height={100}
-          />
+         
         </div>
         <div></div>
       </div>
